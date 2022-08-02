@@ -18,7 +18,7 @@ public class MainActivity extends AppCompatActivity {
         Intent acceder_principal= new Intent(this,PrincipalActivity.class);
         startActivity(acceder_principal);
 
-        aajhdhdgfsgdf
+
 
     }
 }
